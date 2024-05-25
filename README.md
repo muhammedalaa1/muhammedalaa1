@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammed Alaa</h1>
 <h3 align="center">A passionate Mern Stack From Egypt 🇪🇬</h3>
-
+<h3 align="center">Iam currently working as a Full Stack developer at EZeats 🇪🇬</h3>
 
 
 <p align="left"> <a href="https://twitter.com/muhamme59273554" target="blank"><img src="https://img.shields.io/twitter/follow/muhamme59273554?logo=twitter&style=for-the-badge" alt="muhamme59273554" /></a> </p>
