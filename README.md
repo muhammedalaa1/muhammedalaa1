@@ -1,42 +1,70 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<h1 align="center">Hi, I'm Muhammed Alaa 👋</h1>
+<h3 align="center">Full-Stack Software Engineer · React · Next.js · Node.js · Python · AI integrations</h3>
 
-
-
-<h1 align="center">Hi 👋, I'm Muhammed Alaa</h1>
-<h3 align="center">A passionate Mern Stack From Egypt 🇪🇬</h3>
-<h3 align="center">Iam currently working as a Full Stack developer at EZeats 🇪🇬</h3>
-
-
-<p align="left"> <a href="https://twitter.com/muhamme59273554" target="blank"><img src="https://img.shields.io/twitter/follow/muhamme59273554?logo=twitter&style=for-the-badge" alt="muhamme59273554" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
-- 🔭 I’m currently working on **Mern Stack Application (Book-Store)**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **Advanced Mern Stack Application Like E-commerce**
-
-- 👨‍💻 All of my projects are available at [https://github.com/muhammedalaa1?tab=repositories](https://github.com/muhammedalaa1?tab=repositories)
-
-- 💬 Ask me about **react,node.Js ,express,MongoDB**
-
-- 📫 How to reach me **muhammedalaa2213@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muhamme59273554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamme59273554" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed-alaa-b878051b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-alaa-b878051b8" height="30" width="40" /></a>
-<a href="https://fb.com/muhammedalaa2213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammedalaa2213" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammedalaa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammedalaa24" height="30" width="40" /></a>
-<a href="https://discord.gg/.muhammedalaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".muhammedalaa" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://muhammedalaa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-muhammedalaa.vercel.app-7C5CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/muhammed-alaa-b878051b8"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:muhammedalaa2213@gmail.com"><img src="https://img.shields.io/badge/Email-muhammedalaa2213@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://muhammedalaa.vercel.app/Muhammed-Alaa-CV.pdf"><img src="https://img.shields.io/badge/CV-Download-22D3EE?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedalaa1&show_icons=true&locale=en&layout=compact" alt="muhammedalaa1" /></p>
+### About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedalaa1&show_icons=true&locale=en" alt="muhammedalaa1" /></p>
+I design and ship production platforms end to end: the interfaces people use, the APIs and databases behind them, and the payments, integrations and AI features that connect them.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedalaa1&" alt="muhammedalaa1" /></p>
+- 🚀 **10+ production products** shipped for clients in the US, Canada and Europe
+- 🔌 **15+ third-party integrations**: Stripe Connect, Foodics, Oracle MICROS, Google & Microsoft, Apple Wallet, GoHighLevel, WHOOP, Oura…
+- 🤖 Building **AI agents and LLM features** in production: tool-calling agents, RAG, structured outputs
+- 🎓 B.Sc. Computer Science, Benha University (2025)
+- 📍 Cairo, Egypt · working remotely with teams worldwide
 
+### Selected work
+
+> Most of my client work lives in private repositories. Here's what it does; ask me about the architecture anytime.
+
+| Project | What I built | Stack |
+|---|---|---|
+| **[Danceable](https://app.danceable.ai/)** | Backend of a multi-tenant marketplace for dance studios: bookings, Stripe Connect payouts, Apple & Google sign-in, calendar sync, RBAC, 160+ test files | Express 5 · TypeScript · PostgreSQL · Drizzle · Redis |
+| **Roqetit** | AI-native workflow-automation SaaS with a chat agent that builds and runs workflows from natural language | React · Python · FastAPI · Redis · AWS |
+| **EZeats** | Ordering website and the backend behind the iOS & Android apps, synced with Foodics and Oracle MICROS POS | Next.js · Node.js · AWS · Redis |
+| **RWC** | Construction quoting tool with drag-and-drop templates and Excel export | React 19 · Tailwind v4 · TanStack Router · Express |
+| **Mockify** | Graduation project: AI interviewer with CV parsing (RAG), job matching and a talking avatar | Next.js · LangChain · Llama 3 |
+
+See them all, with details, at **[muhammedalaa.vercel.app](https://muhammedalaa.vercel.app/)**.
+
+### Tech stack
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,bootstrap,html,css,pug&theme=dark" alt="Frontend" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi&theme=dark" alt="Backend" />
+
+**Data & cloud**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,vercel,githubactions&theme=dark" alt="Data and cloud" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,figma,ps&theme=dark" alt="Tools" />
+
+**Other languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" alt="Other languages" />
+
+**AI:** OpenAI API & Assistants · LangChain · RAG & vector search · Hugging Face
+
+### Currently
+
+- 🛠️ Building open-source tools for developers in the Middle East (stay tuned)
+- 📖 Exploring local-first apps and CRDTs
+- 💬 Ask me about **APIs, payments & integrations, Postgres, and shipping AI features to production**
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammedalaa1&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedalaa1&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhammedalaa1&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
